@@ -1,1 +1,4 @@
-# NLP-coursera
+# NLP-course
+- Basics
+- Intermediate
+- Advanced
